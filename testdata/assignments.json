@@ -8,6 +8,15 @@
         "type": "autograder"
     },
     {
+        "id": "110000200",
+        "course": "course101",
+        "short-name": "quiz-regex",
+        "name": "Regular Expressions",
+        "max-points": 10,
+        "type": "quiz",
+        "relpath": "cse-cracks-course/quizzes/regex/quiz.json"
+    },
+    {
         "id": "120000100",
         "course": "course-languages",
         "short-name": "bash",
@@ -36,20 +45,23 @@
         "course": "extra-course",
         "short-name": "assignment-1",
         "name": "Assignment 1",
-        "max-points": 10
+        "max-points": 10,
+        "type": "empty"
     },
     {
         "id": "130000200",
         "course": "extra-course",
         "short-name": "assignment-2",
         "name": "Assignment 2",
-        "max-points": 20
+        "max-points": 20,
+        "type": "empty"
     },
     {
         "id": "130000300",
         "course": "extra-course",
         "short-name": "assignment-3",
         "name": "Assignment 3",
-        "max-points": 30
+        "max-points": 30,
+        "type": "empty"
     }
 ]
