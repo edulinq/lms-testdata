@@ -1,1 +1,1 @@
-edq-utils>=0.2.2
+edq-utils>=1.0.0,==1.*
